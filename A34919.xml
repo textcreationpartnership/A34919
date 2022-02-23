@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something spoken in vindication &amp; clearing of the people of God called Quakers that they have not forfeited their liberty in the declaration, nor made ill use of the kings indulgence, by any plots or murders or insurrections, in a pretence of worship and serving of God : the Lord is witness, and you have tried us, and found that we are none of those people the kings proclamation takes hold upon, but ought to have our meetings.</title>
+            <author>R. C. (Richard Crane)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34919</idno>
+            <idno type="STC">Wing C6816</idno>
+            <idno type="STC">ESTC R32372</idno>
+            <idno type="EEBO-CITATION">12652732</idno>
+            <idno type="OCLC">ocm 12652732</idno>
+            <idno type="VID">65304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65304)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1525:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something spoken in vindication &amp; clearing of the people of God called Quakers that they have not forfeited their liberty in the declaration, nor made ill use of the kings indulgence, by any plots or murders or insurrections, in a pretence of worship and serving of God : the Lord is witness, and you have tried us, and found that we are none of those people the kings proclamation takes hold upon, but ought to have our meetings.</title>
+                  <author>R. C. (Richard Crane)</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at bottom: R.C. [i.e. Richard Crane].</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:65304:1" rendition="simple:additions"/>
+            <head>Something ſpoken in VINDICATION &amp; CLEARING OF THE People of God called QUAKERS;</head>
+            <p>
+               <hi>That they have not forfeited their Liberty in the</hi> Declaration, <hi>nor made ill uſe of the <hi>Kings</hi> Ind<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lgence, by any</hi> Plots, <hi>or</hi> Murders, <hi>or</hi> Inſurrections <hi>in a pretence of Worſhip, and ſerving of God. The Lord is Witn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs, and you have tried us, and found that we are none of thoſe People the</hi> Kings Proclamation <hi>takes hold upon, but ought <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o have our Meetings.</hi>
+            </p>
+            <p>THe <hi>Kings Declaration</hi> concerning <hi>Eccleſiaſtical Affairs;</hi> He ſaith in a word, <hi>We do again renew what we have formerly ſaid in our Declaration from</hi> Breda, <hi>to tender Conſciences, that no man ſhall be diſquieted, or called in queſtion for difference in Opinion in mat<g ref="char:EOLhyphen"/>ters of Religion, which do not diſturb the Peace of the Kingdom; If any have been diſturbed in that kind ſince our Arrival, it hath not proceeded from any direction of ours,</hi> page 18.</p>
+            <p>The Kings Proclamation for prohibiting of all unlawful Seditious Meet<g ref="char:EOLhyphen"/>ings and Conventicles, under pretence of the Worſhip of God.</p>
+            <p>Now this we wonder and ſtrange, that Magiſtrates, and Rulers, and Offi<g ref="char:EOLhyphen"/>cers, ſhould look upon the People of God called <hi>Quakers,</hi> that their Meet<g ref="char:EOLhyphen"/>ings are Seditious and unlawful, and Conventicles, and for them to cumber themſelves with Armed men, &amp; make ſuch a ſpoil, and bruiſe ſober People, that Fear and Worſhip God in reality, and caſt them into Holes and Dun<g ref="char:EOLhyphen"/>geons, where they will not let them have neceſſary things, hardly Straw.</p>
+            <p>Firſt, The <hi>Quakers Meetings</hi> are no <hi>Conventicles,</hi> for their Doors are o<g ref="char:EOLhyphen"/>pen; Neither do they Meet to Plot or Contrive againſt the Powers, who be in the Higher Powers, Nor are they Seditious, for they do not draw people, neither from the juſt Laws of the Nation, nor from good Go<g ref="char:EOLhyphen"/>vernment.</p>
+            <p>Neither are they unlawful, for they do not hold up ſin in their Meetings, neither amongſt themſelves nor others; and for teſtifying againſt the World, that the works thereof are evil, as Chriſt their Life did before, therefore are they perſecuted and hated.</p>
+            <p>And again in the <hi>Proclamation,</hi> ſome part of the <hi>Liberty to tender Con<g ref="char:EOLhyphen"/>ſciences,</hi> in the late <hi>Declaration</hi> is reſtrained; <hi>ſince divers Perſons in the Name of Anabaptiſts, and Quakers, and fifth Monarchy men, or ſome ſuch like appellation, who under pretence of ſerving God, daily meet in ſecret Pla<g ref="char:EOLhyphen"/>ces, and at unreaſonable times, &amp;c. of which ſome evil hath already enſued, by diſturbing of the publick Peace, by Inſurrections and Murders, for which the offenders muſt anſwer to the Law, and far worſe may be expected, unleſs ſome ſpeedy courſe be taken to prevent their further growth.</hi> Mark, It muſt be to prevent their further growth that are the <hi>Murderers;</hi> For you are convinced that the <hi>Quakers</hi> will not take up Carnal Weapons, and yet to number them amongſt ſuch as will; and for any thing that we ſee, your greateſt work hath been, againſt them that will not lift up a hand againſt you, and caſt thouſands of them into Priſon; This cannot chuſe but be below men, or Warriours, or Conquerours, and Juſtice, to mingle the Innocent with Fighters, becauſe they cannot bear Arms, and you impri<g ref="char:EOLhyphen"/>ſon them amongſt the other, and make the moſt ado about them too, and your greateſt work; that moderate people cries out, that the greateſt work in the Nation, is at an innocent people, that cannot lift up a hand againſt any man.</p>
+            <p>And then further it is ſaid in the laſt <hi>Proclamation, To the intent that none of thoſe perſons, who have preſumed to make ſo ill uſe of our indulgence, may be ſtrengthened in ſuch their proceedings, by any general word or expreſſion in our late Declaration.</hi>
+            </p>
+            <p>Now Mark, this is to them who made an <hi>ill uſe,</hi> that have been the <hi>Murderers,</hi> it doth not reach to the People of God that are called <hi>Quakers,</hi> but to them that make the ill uſe, which are Murderers.</p>
+            <p>Oh that Magiſtrates and Juſtices ſhould not ſee this; They that had made the ill uſe, muſt not be <hi>ſtrengthened by any general word in the late Declaration;</hi> but they that have not made the ill uſe, may be ſtrengthen<g ref="char:EOLhyphen"/>ed, and claim this general word, that have not been the Murderers and raiſers of Inſurrection, upon whom and for which cauſe, came this <hi>Pro<g ref="char:EOLhyphen"/>clamation<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+            </p>
+            <p>Therefore it is they that have made the ill uſe of the Liberty, that are not to meet, that ſome part of that Liberty is taken away from them; but their Meetings muſt be in ſome Parochial Church or Chappel, or in their private Houſes; read but the thing and you may ſee, it relates to the Perſons aboveſaid, that do abuſe their Liberty, whoſe Meetings are to murder, which are riotous or unlawful; and this is the thing that the <hi>Pro<g ref="char:EOLhyphen"/>clamation</hi> is againſt, that ſuch Meetings are to be ſtopped, who are ſo.</p>
+            <p>So this doth not touch the <hi>Quakers,</hi> but the Perſons aforeſaid that be the Murderers, and the perſons aforeſaid are not to meet, but in their own <hi>Parochial Churches,</hi> or <hi>Chappels,</hi> or <hi>private Houſes.</hi>
+            </p>
+            <p>And is not the Oarh to be tendred according to the Law, to ſuch as are againſt the King, and ſuch as would murder? And not to them that are in Peace with him and all men, and wou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d hurt no mans perſon upon the earth, though the ſafety lies not in Swea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, but in the Truth and Righ<g ref="char:EOLhyphen"/>teouſneſſe, which we ſpeak in Yea and Nay.</p>
+            <p>And you know that the <hi>Quakers</hi> are not a people that levied the new War, therefore not diſturbers of the Peace; and they are not they that make the Diviſion, but are in the Power of Truth, that would bring all up to God.</p>
+            <p>Neither were the <hi>Quakers</hi> ſuch as have gathered up Swords and Arms together, and gone out to kill people, but they are out of all ſuch deſigns, though many thouſands of them you have ſecured, which we believe you know in your Conſciences Souls and M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds that they are innocent, and that they have not forfeited their Liberty, nor have made <hi>ill uſe</hi> of that indulgence, and word concerning Tender Conſciences.</p>
+            <p>Therefore it will be a greater ſuffering to you, when the Lord God ſhall give you a reward according to your works; for you have found them in no treacherous deſigns, you have found them in no Arms, you have not found them in any Plots, and yet you keep thouſands of them in Priſon. What have you not daily tryals of them? And many you keep in ſtraw, and hardly meat can be gotten to them; and many ſick, and ſome dead in Priſon: Oh this lingering Martyrdom, by which many are almoſt pined and ſmothered in Priſon!</p>
+            <p>For although in this laſt <hi>Proclamation</hi> concerning, <hi>That none ſhould be diſturbed, and fetched out of Houſes, but by ſpecial Warrant, but they ſhould be looked upon, as Contemners and Diſturbers of their Government;</hi> But never<g ref="char:EOLhyphen"/>theleſſe, the <hi>Quakers</hi> are haled out of their Houſes by armed men, and never no Warrant ſhewn them, but caſt into Priſon without Warrant, as in many places, if you will but ſearch into them you may ſee; and ſuch go at Liberty, who break the <hi>Proclamation;</hi> but you afflict thoſe who have not made an <hi>ill uſe</hi> of it, and ſuffering men to come without Warrant, contrary to <hi>Proclamation,</hi> and nothing inflicted upon them; and we ſuffer that are Innocent, and juſtice cannot be had, though they cry for it never ſo loud. Therefore now to conſider how the Innocent are fallen upon, and to all the Nation made a prey upon, as though men did neither mind God nor Conſcience. O therefore ye Judges, ye Rulers and Magiſtrates, do Juſtice equally to all men in the Fear of God, that gives you Breath, and Strength, and all things, leſt he make you as duſt before the Wind; Love, Judgement and Mercy, do that which is pleaſing in the ſight of God, afflict not his People, fill not the Dungeons and noyſome Holes with the Inno<g ref="char:EOLhyphen"/>cent, but ſet them free who lie in Straw, and Dungeons, and Irons, and denyed to have neceſſaries. Oh your Conſciences, your Conſciences! let there not be a guilt upon them, for the day of account draws on; the cry of the Innocent and Righteous, and the afflicted, and the Impriſon<g ref="char:EOLhyphen"/>ed, ſtarved in naſty Dungeons and Straw, and Irons, and neceſſaries de<g ref="char:EOLhyphen"/>nyed them; and they robbed, and beat, and bruiſed in Goals; the cry of this is great to the Lord who will hear: and you that are Juſtices and Judges, Oh that you had tender hearts to conſider; Oh that you were Chriſtians, that your ſtony hearts were taken away, and a heart of fleſh given unto you; (Oh the intemperateneſs! Oh the unmercifulneſs, and unnaturalneſs, and uncompaſſionateneſs!) it grieves and breaks the hearts of the ſober, to ſee theſe wanting, and to ſee the cruelty and hard-heartedneſs got up in its place.</p>
+            <p>Oh conſider, what will you do? And how do you ſpend your time, when the Juſt ſuffers amongſt you, and the Jnnocent? Oh will it not be ſaid by you, that you had a day, that you might have done that which you do not regard? Such as love your eternal Peace, ſuch you hate; and ſuch as love your Eternal Happineſſe, ſuch you perſecute in Dungeons. If they were wild and followed Pleaſures, and could Swear, then we believe we ſhould be regarded: But Oh our Conſciences, our Conſciences we cannot make Shipwrack of, as thouſands have done, and our trouble is for you, that you ſhould not heed your ſelves, nor Gods Mercy, nor love your own Conſciences; but run on in ſuch a grievous paſſion and ſtrain (without diſtinction or conſideration) againſt the Righteous and the Innocent, which thing the Prophets cryed againſt, in the Magiſtrates and Rulers in the dayes of old, that made no diſtinction betwixt the Pretious and the Vile, for which cauſe he propheſied of their captivity, and their overthrow, as you may read in the Scripture in the old Teſtament, <hi>Mal.</hi> 3.</p>
+            <closer>
+               <signed>R. C.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
